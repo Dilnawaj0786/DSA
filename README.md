@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Dilnawaj0786/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dilnawaj0786/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Dilnawaj0786/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Dilnawaj0786/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dilnawaj0786/DSA/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dilnawaj0786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Dilnawaj0786/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Dilnawaj0786/DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
