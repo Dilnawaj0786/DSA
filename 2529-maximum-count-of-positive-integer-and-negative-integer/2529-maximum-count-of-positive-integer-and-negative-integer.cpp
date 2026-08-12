@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int maximumCount(vector<int>& nums) {
+        int pos = 0;
+        int neg = 0;
+        for(int ele : nums){
+            if( ele > 0) pos++;
+            if(ele < 0) neg++;
+        }
+        return max(pos,neg);
+    }
+};
