@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dilnawaj0786/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dilnawaj0786/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Dilnawaj0786/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dilnawaj0786/DSA/tree/master/0283-move-zeroes) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dilnawaj0786/DSA/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Dilnawaj0786/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
