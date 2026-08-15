@@ -21,7 +21,18 @@ public:
                 j++;
             }
         }
-        ans.erase(unique(ans.begin(),ans.end()),ans.end());
+        if(!ans.empty()) {
+            int k = 1;
+
+            for(int i = 1; i < ans.size(); i++) {
+                if(ans[i] != ans[k-1]) {
+                    ans[k] = ans[i];
+                    k++;
+                }
+            }
+
+            ans.resize(k);
+        }       
         return ans;
     }
 };
