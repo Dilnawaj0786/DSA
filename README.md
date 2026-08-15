@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Dilnawaj0786/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dilnawaj0786/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dilnawaj0786/DSA/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
