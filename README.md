@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dilnawaj0786/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Dilnawaj0786/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Dilnawaj0786/DSA/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0766-toeplitz-matrix) |
