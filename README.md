@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dilnawaj0786/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Dilnawaj0786/DSA/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/0905-sort-array-by-parity) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Dilnawaj0786/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Dilnawaj0786/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dilnawaj0786/DSA/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Dilnawaj0786/DSA/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
 | ------- |
