@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Dilnawaj0786/DSA/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Dilnawaj0786/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dilnawaj0786/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Dilnawaj0786/DSA/tree/master/1108-defanging-an-ip-address) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dilnawaj0786/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dilnawaj0786/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
