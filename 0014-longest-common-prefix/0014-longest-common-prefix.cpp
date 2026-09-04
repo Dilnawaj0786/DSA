@@ -3,24 +3,27 @@ public:
     string longestCommonPrefix(vector<string>& strs) {
         string ans = strs[0];
         for(int i=1;i<strs.size();i++){
-            string pre = ans;
-            string temp = strs[i];
-            int j =0;
-            int k = 0;
-            string newans = "";
-            while(j < temp.size() && k < pre.size()){
-                if(temp[j] == pre[k]){
-                    newans.push_back(temp[j]);
+            string prefix = ans;
+            string current = strs[i];
+            string newstr = "";
+            int j=0;
+            int k=0;
+
+            while(j < prefix.size() && k < current.size()){
+                if(prefix[j] == current[k]){
+                    newstr.push_back(prefix[j]);
                 }else{
                     break;
                 }
                 j++;
                 k++;
             }
-            if(newans.empty()){
+
+            if(newstr.empty()){
                 return "";
             }
-            ans = newans;
+
+            ans = newstr;
         }
         return ans;
     }
