@@ -1,7 +1,7 @@
 class Solution {
 public:
     void powerset(int idx,vector<int> ans, vector<int>& arr,vector<vector<int>>& finalans){
-        if(idx == arr.size()){
+        if(idx == arr.size()){ // i have a subset
             finalans.push_back(ans);
             return;
         }
