@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dilnawaj0786/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dilnawaj0786/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Dilnawaj0786/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Dilnawaj0786/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dilnawaj0786/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dilnawaj0786/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 ## Sorting
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dilnawaj0786/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
