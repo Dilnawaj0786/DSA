@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dilnawaj0786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dilnawaj0786/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Dilnawaj0786/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dilnawaj0786/DSA/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
