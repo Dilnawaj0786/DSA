@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Dilnawaj0786/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dilnawaj0786/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dilnawaj0786/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dilnawaj0786/DSA/tree/master/0342-power-of-four) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0867-transpose-matrix) |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
