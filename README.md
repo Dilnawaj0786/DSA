@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dilnawaj0786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Dilnawaj0786/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dilnawaj0786/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Dilnawaj0786/DSA/tree/master/1390-four-divisors) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dilnawaj0786/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Dilnawaj0786/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3871-count-commas-in-range-ii) |
