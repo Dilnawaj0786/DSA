@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dilnawaj0786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dilnawaj0786/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Dilnawaj0786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dilnawaj0786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
