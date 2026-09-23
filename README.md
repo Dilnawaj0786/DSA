@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dilnawaj0786/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dilnawaj0786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
