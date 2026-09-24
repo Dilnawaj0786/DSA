@@ -399,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Dilnawaj0786/DSA/tree/master/1390-four-divisors) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
