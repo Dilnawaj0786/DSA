@@ -21,9 +21,9 @@ public:
         k = k%n;
         ListNode* temp = head;
         if(k == 0) return head;
-        ListNode* a = NULL;
-        ListNode* b = NULL;
-        ListNode* c = NULL;
+        ListNode* a = head;
+        ListNode* b = head;
+        ListNode* c = head;
         for(int i=1;i<=n;i++){
             if(i==n-k) a = temp;
             if(i==n-k+1) b = temp;
