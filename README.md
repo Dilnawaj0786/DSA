@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dilnawaj0786/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dilnawaj0786/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dilnawaj0786/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dilnawaj0786/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Dilnawaj0786/DSA/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/1512-number-of-good-pairs) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dilnawaj0786/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
