@@ -10,40 +10,75 @@
  */
 class Solution {
 public:
+
     bool isPalindrome(ListNode* head) {
-        if(head->next == NULL) return true;
+        if(head == NULL || head->next == NULL) return true;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-
-        // deep copy ke liye
-        ListNode* copy = new ListNode(head->val); 
-        ListNode* temp = head;
-        ListNode* temp1 = copy;
-        while(temp->next != NULL){
-            temp = temp->next;
-            temp1->next = new ListNode(temp->val);
-            temp1 = temp1->next;
+        while(fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        // reversing list
         ListNode* prev = NULL;
-        ListNode* current = head;
-        while( current != NULL){
+        ListNode* current = slow;
+        while(current != NULL) {
             ListNode* fwd = current->next;
             current->next = prev;
             prev = current;
             current = fwd;
         }
 
+        ListNode* temp = head;
+        ListNode* temp1 = prev;
 
-        // comparing for palindrom
-        ListNode* v = copy;
-        ListNode* temp2 = prev;
-        while( v != NULL && temp2 != NULL){
-            if(v->val != temp2->val) return false;
-            v= v->next;
-            temp2 = temp2->next;
+        while(temp1 != NULL) {
+            if(temp->val != temp1->val)
+                return false;
+
+            temp = temp->next;
+            temp1 = temp1->next;
         }
 
         return true;
     }
+
+
+    // bool isPalindrome(ListNode* head) {
+    //     if(head->next == NULL) return true;
+
+
+    //     // deep copy ke liye
+    //     ListNode* copy = new ListNode(head->val); 
+    //     ListNode* temp = head;
+    //     ListNode* temp1 = copy;
+    //     while(temp->next != NULL){
+    //         temp = temp->next;
+    //         temp1->next = new ListNode(temp->val);
+    //         temp1 = temp1->next;
+    //     }
+
+    //     // reversing list
+    //     ListNode* prev = NULL;
+    //     ListNode* current = head;
+    //     while( current != NULL){
+    //         ListNode* fwd = current->next;
+    //         current->next = prev;
+    //         prev = current;
+    //         current = fwd;
+    //     }
+
+
+    //     // comparing for palindrom
+    //     ListNode* v = copy;
+    //     ListNode* temp2 = prev;
+    //     while( v != NULL && temp2 != NULL){
+    //         if(v->val != temp2->val) return false;
+    //         v= v->next;
+    //         temp2 = temp2->next;
+    //     }
+
+    //     return true;
+    // }
 };
