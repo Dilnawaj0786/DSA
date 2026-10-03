@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Dilnawaj0786/DSA/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilnawaj0786/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Dilnawaj0786/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Dilnawaj0786/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dilnawaj0786/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dilnawaj0786/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dilnawaj0786/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Dilnawaj0786/DSA/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
