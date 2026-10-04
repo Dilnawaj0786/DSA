@@ -39,13 +39,17 @@ public:
         b = reverse(b);
         ListNode* t1 = a;
         ListNode* t2 = b;
-
+        bool flag = true;
         while( t2 != NULL){
-            if(t1->val != t2->val) return false;
+            if(t1->val != t2->val){
+                flag = false;
+                break;
+            }
             t1 = t1->next;
             t2 = t2->next;
         }
-        return true;
+        slow->next = reverse(b); // to maintain the original array
+        return flag;
     }
 
 
