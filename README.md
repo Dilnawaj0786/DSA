@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dilnawaj0786/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dilnawaj0786/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dilnawaj0786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dilnawaj0786/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/Dilnawaj0786/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Dilnawaj0786/DSA/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dilnawaj0786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prime Factorization
 |  |
 | ------- |
