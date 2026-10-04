@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dilnawaj0786/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilnawaj0786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dilnawaj0786/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dilnawaj0786/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Dilnawaj0786/DSA/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Dilnawaj0786/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dilnawaj0786/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -519,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Dilnawaj0786/DSA/tree/master/1095-find-in-mountain-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
