@@ -10,8 +10,9 @@
  */
 class Solution {
 public:
-
-    ListNode* mergeList(ListNode* list1, ListNode* list2) {
+     // Method 2 use extra vector 
+    
+    ListNode* mergeList(ListNode* list1, ListNode* list2) { // tc = O(m+n)
         ListNode* td = new ListNode(-1);
         ListNode* ta = list1;
         ListNode* tb = list2;
@@ -34,16 +35,77 @@ public:
     }
     ListNode* mergeKLists(vector<ListNode*>& arr) {
         if(arr.size() == 0) return NULL;
-       while(arr.size() > 1){
-            ListNode* a = arr[arr.size()-1];
-            arr.pop_back();
-            ListNode* b = arr[arr.size()-1];
-            arr.pop_back();
-            ListNode* c = mergeList(a,b);
-            arr.push_back(c);
-       }
-       return arr[0];
+        vector<ListNode*> temp;
+        while((temp.size() + arr.size()) > 1){
+            while(arr.size() > 1){
+                ListNode* a = arr[arr.size()-1];
+                arr.pop_back();
+                ListNode* b = arr[arr.size()-1];
+                arr.pop_back();
+                ListNode* c = mergeList(a,b);
+                temp.push_back(c);
+            }
+
+            while(temp.size() > 1){
+                ListNode* a = temp[temp.size()-1];
+                temp.pop_back();
+                ListNode* b = temp[temp.size()-1];
+                temp.pop_back();
+                ListNode* c = mergeList(a,b);
+                arr.push_back(c);
+            }
+
+            if(arr.size() == 1 && temp.size() == 1){
+                temp.push_back(arr[0]);
+                arr.pop_back();
+            }
+        }
+        return (arr.size() != 0) ? arr[0] : temp[0];
     }
+
+
+
+
+
+
+
+
+
+    // // Method 1
+
+    // ListNode* mergeList(ListNode* list1, ListNode* list2) { // tc = O(m+n)
+    //     ListNode* td = new ListNode(-1);
+    //     ListNode* ta = list1;
+    //     ListNode* tb = list2;
+    //     ListNode* ans = td;   
+    //     while(ta != NULL && tb != NULL){
+    //         if(ta->val <= tb->val){
+    //             td->next = ta;
+    //             ta = ta->next;
+    //         }else{
+    //             td->next = tb;
+    //             tb = tb->next;
+    //         }
+    //         td=td->next;
+    //     }
+    //     if(ta != NULL){
+    //         td->next = ta;
+    //     }
+    //     if(tb != NULL)  td->next = tb;;
+    //     return ans->next;
+    // }
+    // ListNode* mergeKLists(vector<ListNode*>& arr) {
+    //     if(arr.size() == 0) return NULL;
+    //     while(arr.size() > 1){
+    //         ListNode* a = arr[arr.size()-1];
+    //         arr.pop_back();
+    //         ListNode* b = arr[arr.size()-1];
+    //         arr.pop_back();
+    //         ListNode* c = mergeList(a,b);
+    //         arr.push_back(c);
+    //     }
+    //    return arr[0];
+    // }
 
 
 
