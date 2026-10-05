@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dilnawaj0786/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Dilnawaj0786/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dilnawaj0786/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Dilnawaj0786/DSA/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/Dilnawaj0786/DSA/tree/master/3894-traffic-signal-color) |
 ## Divide and Conquer
