@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Dilnawaj0786/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Dilnawaj0786/DSA/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/Dilnawaj0786/DSA/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/Dilnawaj0786/DSA/tree/master/3894-traffic-signal-color) |
 ## Divide and Conquer
 |  |
