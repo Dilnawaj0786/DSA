@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Dilnawaj0786/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Dilnawaj0786/DSA/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Dilnawaj0786/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dilnawaj0786/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Dilnawaj0786/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dilnawaj0786/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prime Factorization
 |  |
@@ -574,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
