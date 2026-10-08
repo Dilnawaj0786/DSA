@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dilnawaj0786/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Dilnawaj0786/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dilnawaj0786/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Dilnawaj0786/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Dilnawaj0786/DSA/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dilnawaj0786/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Timsort
@@ -603,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
