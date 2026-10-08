@@ -1,7 +1,9 @@
 class Solution {
 public:
     string mapWordWeights(vector<string>& words, vector<int>& weights) {
-        string ans = "";
+        int n = words.size();
+        string ans(n,' ');
+        int k = 0;
         for(int i=0;i<words.size();i++){
             int j =0;
             int y =0;
@@ -12,7 +14,7 @@ public:
             }
             y = y % 26;
             y = 26-y;
-            ans.push_back(char(y+96));
+            ans[k++] = char(y+96);
         }
         return ans;
 
