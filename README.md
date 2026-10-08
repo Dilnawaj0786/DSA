@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Dilnawaj0786/DSA/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Dilnawaj0786/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0766-toeplitz-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dilnawaj0786/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/Dilnawaj0786/DSA/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Dilnawaj0786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
