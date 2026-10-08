@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dilnawaj0786/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Dilnawaj0786/DSA/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dilnawaj0786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3668-restore-finishing-order](https://github.com/Dilnawaj0786/DSA/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Dilnawaj0786/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
