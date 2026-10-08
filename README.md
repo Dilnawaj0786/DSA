@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dilnawaj0786/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Dilnawaj0786/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Dilnawaj0786/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Dilnawaj0786/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dilnawaj0786/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Dilnawaj0786/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Dilnawaj0786/DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0867-transpose-matrix) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dilnawaj0786/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Dilnawaj0786/DSA/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Dilnawaj0786/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Dilnawaj0786/DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Dilnawaj0786/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Dilnawaj0786/DSA/tree/master/0796-rotate-string) |
