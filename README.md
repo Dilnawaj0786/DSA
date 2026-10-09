@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Dilnawaj0786/DSA/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Dilnawaj0786/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dilnawaj0786/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dilnawaj0786/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/Dilnawaj0786/DSA/tree/master/3280-convert-date-to-binary) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dilnawaj0786/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Dilnawaj0786/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
