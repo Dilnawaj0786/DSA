@@ -17,17 +17,19 @@ public:
         int op = 0;
         for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid[i].size();j++){
-                if(grid[i][j] < median){
-                    while(grid[i][j] != median){
-                        grid[i][j] += x;
-                        op++;
-                    }
-                }else{
-                    while(grid[i][j] != median){
-                        grid[i][j] -= x;
-                        op++;
-                    }
-                }
+                // if(grid[i][j] < median){
+                //     while(grid[i][j] != median){
+                //         grid[i][j] += x;
+                //         op++;
+                //     }
+                // }else{
+                //     while(grid[i][j] != median){
+                //         grid[i][j] -= x;
+                //         op++;
+                //     }
+                // }
+
+                op += abs(grid[i][j] - median) / x;
                 
             }
         }
