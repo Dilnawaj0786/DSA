@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dilnawaj0786/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Dilnawaj0786/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/Dilnawaj0786/DSA/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Dilnawaj0786/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dilnawaj0786/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dilnawaj0786/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/Dilnawaj0786/DSA/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dilnawaj0786/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Dilnawaj0786/DSA/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/Dilnawaj0786/DSA/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Dilnawaj0786/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dilnawaj0786/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dilnawaj0786/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
