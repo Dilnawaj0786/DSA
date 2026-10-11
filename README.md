@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/Dilnawaj0786/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Dilnawaj0786/DSA/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Dilnawaj0786/DSA/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Dilnawaj0786/DSA/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Dilnawaj0786/DSA/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Dilnawaj0786/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/Dilnawaj0786/DSA/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
