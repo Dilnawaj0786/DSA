@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dilnawaj0786/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/Dilnawaj0786/DSA/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Dilnawaj0786/DSA/tree/master/0575-distribute-candies) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Dilnawaj0786/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/Dilnawaj0786/DSA/tree/master/0553-optimal-division) |
 | [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dilnawaj0786/DSA/tree/master/0779-k-th-symbol-in-grammar) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dilnawaj0786/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/Dilnawaj0786/DSA/tree/master/0553-optimal-division) |
 | [0940-distinct-subsequences-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
