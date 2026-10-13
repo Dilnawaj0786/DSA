@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dilnawaj0786/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Dilnawaj0786/DSA/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dilnawaj0786/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/Dilnawaj0786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dilnawaj0786/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dilnawaj0786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dilnawaj0786/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dilnawaj0786/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dilnawaj0786/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dilnawaj0786/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
 | ------- |
