@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Dilnawaj0786/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Dilnawaj0786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Dilnawaj0786/DSA/tree/master/1816-truncate-sentence) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dilnawaj0786/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Dilnawaj0786/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dilnawaj0786/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dilnawaj0786/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dilnawaj0786/DSA/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dilnawaj0786/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Dilnawaj0786/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dilnawaj0786/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
