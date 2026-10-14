@@ -1,5 +1,10 @@
 class Solution {
 public:
+    void reverse(string& ans){
+        int i=0;
+        int j= ans.size()-1;
+        while(i <= j) swap(ans[i++],ans[j--]);
+    }
     bool isvalid(char ch){
         return (ch >= 48 && ch <= 58) ? true : false;
     } 
@@ -16,7 +21,7 @@ public:
             x.pop();
         }
 
-        reverse(ans.begin(),ans.end());
+        reverse(ans);
         return ans;
     }
 };
