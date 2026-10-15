@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dilnawaj0786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
+| [2643-row-with-maximum-ones](https://github.com/Dilnawaj0786/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Dilnawaj0786/DSA/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Dilnawaj0786/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dilnawaj0786/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2643-row-with-maximum-ones](https://github.com/Dilnawaj0786/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
