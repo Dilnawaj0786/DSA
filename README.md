@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dilnawaj0786/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Dilnawaj0786/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dilnawaj0786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dilnawaj0786/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dilnawaj0786/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dilnawaj0786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Dilnawaj0786/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dilnawaj0786/DSA/tree/master/0394-decode-string) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dilnawaj0786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dilnawaj0786/DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -746,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Dilnawaj0786/DSA/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/Dilnawaj0786/DSA/tree/master/0577-employee-bonus) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dilnawaj0786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
