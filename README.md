@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dilnawaj0786/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dilnawaj0786/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Dilnawaj0786/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Dilnawaj0786/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dilnawaj0786/DSA/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Dilnawaj0786/DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0707-design-linked-list) |
 ## Geometry
 |  |
