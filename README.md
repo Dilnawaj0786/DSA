@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dilnawaj0786/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Dilnawaj0786/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dilnawaj0786/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Dilnawaj0786/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Dilnawaj0786/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Dilnawaj0786/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dilnawaj0786/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Dilnawaj0786/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Dilnawaj0786/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Dilnawaj0786/DSA/tree/master/0148-sort-list) |
@@ -771,4 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Dilnawaj0786/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
