@@ -4,7 +4,7 @@ public:
         int ans = 0;
         int n = arr.size();
         stack<int> st;
-        vector<int> nsi(n);
+        vector<int> nsi(n); // next smaller index
         for(int i=n-1;i>=0;i--){
             while(st.size() > 0 && arr[st.top()] >= arr[i]) st.pop();
             if(st.size() > 0 ) nsi[i] = st.top();
@@ -12,7 +12,7 @@ public:
             st.push(i);
         }
         while(st.size() > 0) st.pop();
-        vector<int> psi(n);
+        vector<int> psi(n); // previous smaller index
         for(int i=0;i<n;i++){
             while(st.size() > 0 && arr[st.top()] >= arr[i]) st.pop();
             if(st.size() > 0 ) psi[i] = st.top();
