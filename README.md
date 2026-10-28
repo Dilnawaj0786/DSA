@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dilnawaj0786/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1154-day-of-the-year](https://github.com/Dilnawaj0786/DSA/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dilnawaj0786/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dilnawaj0786/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dilnawaj0786/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Dilnawaj0786/DSA/tree/master/0575-distribute-candies) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilnawaj0786/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Dilnawaj0786/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
