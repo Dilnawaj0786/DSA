@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Dilnawaj0786/DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
+| [0649-dota2-senate](https://github.com/Dilnawaj0786/DSA/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dilnawaj0786/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/Dilnawaj0786/DSA/tree/master/1402-reducing-dishes) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Dilnawaj0786/DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Dilnawaj0786/DSA/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/Dilnawaj0786/DSA/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/Dilnawaj0786/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Dilnawaj0786/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dilnawaj0786/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Dilnawaj0786/DSA/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dilnawaj0786/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
