@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Dilnawaj0786/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dilnawaj0786/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2235-add-two-integers](https://github.com/Dilnawaj0786/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Dilnawaj0786/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Dilnawaj0786/DSA/tree/master/2469-convert-the-temperature) |
