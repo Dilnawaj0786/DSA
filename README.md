@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dilnawaj0786/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0384-shuffle-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Dilnawaj0786/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dilnawaj0786/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dilnawaj0786/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Dilnawaj0786/DSA/tree/master/0367-valid-perfect-square) |
+| [0384-shuffle-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/Dilnawaj0786/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Dilnawaj0786/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Dilnawaj0786/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Dilnawaj0786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dilnawaj0786/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0384-shuffle-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0384-shuffle-an-array) |
 | [0707-design-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Dilnawaj0786/DSA/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Dilnawaj0786/DSA/tree/master/1670-design-front-middle-back-queue) |
@@ -875,4 +878,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/Dilnawaj0786/DSA/tree/master/1670-design-front-middle-back-queue) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
