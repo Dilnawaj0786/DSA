@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dilnawaj0786/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dilnawaj0786/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Dilnawaj0786/DSA/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dilnawaj0786/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dilnawaj0786/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dilnawaj0786/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Dilnawaj0786/DSA/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Dilnawaj0786/DSA/tree/master/2413-smallest-even-multiple) |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/Dilnawaj0786/DSA/tree/master/1390-four-divisors) |
 ## Linked List
 |  |
@@ -901,4 +906,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Dilnawaj0786/DSA/tree/master/1859-sorting-the-sentence) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
