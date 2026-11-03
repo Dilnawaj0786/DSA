@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dilnawaj0786/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/Dilnawaj0786/DSA/tree/master/3794-reverse-string-prefix) |
+| [4030-check-ascii-palindromic](https://github.com/Dilnawaj0786/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Hash Table
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dilnawaj0786/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dilnawaj0786/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dilnawaj0786/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [4030-check-ascii-palindromic](https://github.com/Dilnawaj0786/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/Dilnawaj0786/DSA/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/Dilnawaj0786/DSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Dilnawaj0786/DSA/tree/master/3894-traffic-signal-color) |
+| [4030-check-ascii-palindromic](https://github.com/Dilnawaj0786/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Divide and Conquer
 |  |
 | ------- |
