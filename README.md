@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Dilnawaj0786/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Dilnawaj0786/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Dilnawaj0786/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dilnawaj0786/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Dilnawaj0786/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Dilnawaj0786/DSA/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Dilnawaj0786/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Dilnawaj0786/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dilnawaj0786/DSA/tree/master/0383-ransom-note) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dilnawaj0786/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dilnawaj0786/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Dilnawaj0786/DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Dilnawaj0786/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Dilnawaj0786/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dilnawaj0786/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0234-palindrome-linked-list) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Dilnawaj0786/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Dilnawaj0786/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Dilnawaj0786/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Dilnawaj0786/DSA/tree/master/0326-power-of-three) |
