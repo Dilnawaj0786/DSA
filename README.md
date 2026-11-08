@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dilnawaj0786/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/Dilnawaj0786/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1006-clumsy-factorial](https://github.com/Dilnawaj0786/DSA/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Dilnawaj0786/DSA/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Dilnawaj0786/DSA/tree/master/1154-day-of-the-year) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Dilnawaj0786/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dilnawaj0786/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1006-clumsy-factorial](https://github.com/Dilnawaj0786/DSA/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/Dilnawaj0786/DSA/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dilnawaj0786/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dilnawaj0786/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dilnawaj0786/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dilnawaj0786/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dilnawaj0786/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1006-clumsy-factorial](https://github.com/Dilnawaj0786/DSA/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Dilnawaj0786/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dilnawaj0786/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
