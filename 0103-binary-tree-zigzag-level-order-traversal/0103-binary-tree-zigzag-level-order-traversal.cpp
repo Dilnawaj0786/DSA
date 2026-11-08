@@ -16,7 +16,6 @@ public:
         int leftT = levels(root->left);
         int rightT = levels(root->right);
         return 1 + max(leftT,rightT);
-
     }
 
     void zigzag(TreeNode* root,vector<vector<int>>& ans,int lvl){
@@ -28,12 +27,10 @@ public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         int n = levels(root);
         vector<vector<int>> ans(n);
-        // vector<int> arr(n);
         zigzag(root,ans,0);
         for(int i=0;i<ans.size();i++){
             if(i % 2 != 0) reverse(ans[i].begin(),ans[i].end());
         }
         return ans;
-
     }
 };
