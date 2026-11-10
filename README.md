@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Dilnawaj0786/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Dilnawaj0786/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/Dilnawaj0786/DSA/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Dilnawaj0786/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dilnawaj0786/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Dilnawaj0786/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Dilnawaj0786/DSA/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Dilnawaj0786/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
