@@ -946,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dilnawaj0786/DSA/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Dilnawaj0786/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dilnawaj0786/DSA/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dilnawaj0786/DSA/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Dilnawaj0786/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -1078,4 +1081,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dilnawaj0786/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
