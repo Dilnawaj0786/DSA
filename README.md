@@ -946,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Dilnawaj0786/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Dilnawaj0786/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dilnawaj0786/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Data Stream
 |  |
 | ------- |
