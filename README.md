@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dilnawaj0786/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Dilnawaj0786/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Dilnawaj0786/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilnawaj0786/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dilnawaj0786/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Dilnawaj0786/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Dilnawaj0786/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dilnawaj0786/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Dilnawaj0786/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1016,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dilnawaj0786/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dilnawaj0786/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Dilnawaj0786/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Dilnawaj0786/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -1099,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dilnawaj0786/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dilnawaj0786/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Dilnawaj0786/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
 | ------- |
