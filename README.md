@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Dilnawaj0786/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Dilnawaj0786/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dilnawaj0786/DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Dilnawaj0786/DSA/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Dilnawaj0786/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Dilnawaj0786/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dilnawaj0786/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Dilnawaj0786/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dilnawaj0786/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dilnawaj0786/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dilnawaj0786/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Dilnawaj0786/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dilnawaj0786/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Dilnawaj0786/DSA/tree/master/0506-relative-ranks) |
@@ -1165,4 +1169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
