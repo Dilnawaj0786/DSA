@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Dilnawaj0786/DSA/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dilnawaj0786/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dilnawaj0786/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dilnawaj0786/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dilnawaj0786/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dilnawaj0786/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Dilnawaj0786/DSA/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Dilnawaj0786/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Dilnawaj0786/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Dilnawaj0786/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
