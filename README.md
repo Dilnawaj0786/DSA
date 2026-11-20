@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dilnawaj0786/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dilnawaj0786/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Dilnawaj0786/DSA/tree/master/2540-minimum-common-value) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Dilnawaj0786/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dilnawaj0786/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dilnawaj0786/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Dilnawaj0786/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dilnawaj0786/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dilnawaj0786/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dilnawaj0786/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
