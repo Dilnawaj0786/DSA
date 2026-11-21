@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dilnawaj0786/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dilnawaj0786/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dilnawaj0786/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Dilnawaj0786/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dilnawaj0786/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Dilnawaj0786/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dilnawaj0786/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dilnawaj0786/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Dilnawaj0786/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dilnawaj0786/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Dilnawaj0786/DSA/tree/master/2643-row-with-maximum-ones) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Dilnawaj0786/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
