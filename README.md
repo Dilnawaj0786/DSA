@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dilnawaj0786/DSA/tree/master/2126-destroying-asteroids) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2785-sort-vowels-in-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Dilnawaj0786/DSA/tree/master/2974-minimum-number-game) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Dilnawaj0786/DSA/tree/master/3446-sort-matrix-by-diagonals) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Dilnawaj0786/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dilnawaj0786/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dilnawaj0786/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Dilnawaj0786/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Dilnawaj0786/DSA/tree/master/3110-score-of-a-string) |
