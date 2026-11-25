@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dilnawaj0786/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Dilnawaj0786/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/Dilnawaj0786/DSA/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dilnawaj0786/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Dilnawaj0786/DSA/tree/master/1025-divisor-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Dilnawaj0786/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/Dilnawaj0786/DSA/tree/master/1402-reducing-dishes) |
 ## Simulation
 |  |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dilnawaj0786/DSA/tree/master/0509-fibonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Dilnawaj0786/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
