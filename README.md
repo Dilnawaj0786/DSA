@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Dilnawaj0786/DSA/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Dilnawaj0786/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Dilnawaj0786/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Dilnawaj0786/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Dilnawaj0786/DSA/tree/master/0735-asteroid-collision) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Dilnawaj0786/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dilnawaj0786/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dilnawaj0786/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dilnawaj0786/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Dilnawaj0786/DSA/tree/master/1095-find-in-mountain-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Dilnawaj0786/DSA/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/Dilnawaj0786/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Dilnawaj0786/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dilnawaj0786/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Dilnawaj0786/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dilnawaj0786/DSA/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dilnawaj0786/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Dilnawaj0786/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Dilnawaj0786/DSA/tree/master/0905-sort-array-by-parity) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Dilnawaj0786/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Dilnawaj0786/DSA/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Dilnawaj0786/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Dilnawaj0786/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dilnawaj0786/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -985,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dilnawaj0786/DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dilnawaj0786/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Dilnawaj0786/DSA/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dilnawaj0786/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dilnawaj0786/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Queue
