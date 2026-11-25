@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Dilnawaj0786/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Dilnawaj0786/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dilnawaj0786/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Dilnawaj0786/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dilnawaj0786/DSA/tree/master/1929-concatenation-of-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dilnawaj0786/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Dilnawaj0786/DSA/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Dilnawaj0786/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dilnawaj0786/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dilnawaj0786/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dilnawaj0786/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dilnawaj0786/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Dilnawaj0786/DSA/tree/master/1859-sorting-the-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dilnawaj0786/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dilnawaj0786/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Dilnawaj0786/DSA/tree/master/2126-destroying-asteroids) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dilnawaj0786/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/Dilnawaj0786/DSA/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dilnawaj0786/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dilnawaj0786/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dilnawaj0786/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dilnawaj0786/DSA/tree/master/2126-destroying-asteroids) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dilnawaj0786/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
