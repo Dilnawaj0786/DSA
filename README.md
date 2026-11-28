@@ -1063,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Dilnawaj0786/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dilnawaj0786/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Dilnawaj0786/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Dilnawaj0786/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dilnawaj0786/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Dilnawaj0786/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0669-trim-a-binary-search-tree) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Dilnawaj0786/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dilnawaj0786/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Dilnawaj0786/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
@@ -1168,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Dilnawaj0786/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dilnawaj0786/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dilnawaj0786/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/Dilnawaj0786/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0655-print-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dilnawaj0786/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
